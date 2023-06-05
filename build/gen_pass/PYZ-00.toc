@@ -1,4 +1,4 @@
-('E:\\yo\\proyectos\\generador_de_pass\\build\\gen_pass\\PYZ-00.pyz',
+('E:\\yo\\proyectos\\PassGenerator\\build\\gen_pass\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1008.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
